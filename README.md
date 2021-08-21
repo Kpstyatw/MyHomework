@@ -1,2 +1,2 @@
-# MyHomework
-about data analysis
+MyHomework for IBM Data science 
+written by Wen Tong
